@@ -1,1 +1,2 @@
 # store-app
+The store-app is a simple e-commerce platform built with Node.js and Express. It uses EJS templates for rendering dynamic HTML views and includes CSS for styling. The app features basic store functionalities, including product listings and cart management. It organizes data models, routes, and controllers, making it easy to expand. The project is designed for learning purposes, demonstrating the integration of backend functionality and server-side rendering with a minimalistic approach.
